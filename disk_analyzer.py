@@ -1,6 +1,8 @@
 """
 DiskAnalyzer - Simple disk usage analyzer with GUI
 A minimal application to analyze folder storage usage with tree view and treemap visualization.
+
+Rémy FREDIERE
 """
 
 import sys
